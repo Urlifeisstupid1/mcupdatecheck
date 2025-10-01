@@ -1,14 +1,16 @@
+## Update includes
 - Silly item conveyer belts
-- Elytra crafting and enhancements
+- Elytra crafting and enhancements (recipe below)
 - More Vehicles
 - Boat Jumps
 - small chance for minerals to drop from stone
 - Target dummy
 - more structures
-- terraria like storage management overhaul
+- terraria like storage management overhaul [more info](https://modrinth.com/mod/terrastorage?version=1.21.1&loader=fabric)
 - Elevators
 - replaced fabric seasons with Serene Seasons for better compatibility
 - tool swapper
 - tab animation and customisation
 
-Note an error with surveyor means that your atlas wont sync with other players on the server
+### - Note an error with surveyor means that your atlas wont sync with other players on the server
+https://cdn.modrinth.com/data/cached_images/3edd53b1419d2340909a89f225e0d389e02f0897.png
