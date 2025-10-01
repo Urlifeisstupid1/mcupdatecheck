@@ -12,4 +12,4 @@
 - tool swapper
 - tab animation and customisation
 
-### - Note an error with surveyor means that your atlas wont sync with other players on the server
+- Note an error with surveyor means that your atlas wont sync with other players on the server
