@@ -1,1 +1,8 @@
-test
+## Update includes
+- Creepy Atmospherics underground
+- Added a ballanced Teleportation option
+- Horror mods
+- More rain and thunder weather chance
+- New Shader for Halloween
+
+### Note these additions are only temporary for the month of October.
