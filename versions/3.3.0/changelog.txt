@@ -5,4 +5,4 @@
 - More rain and thunder weather chance
 - New Shader for Halloween
 
-### - Note these additions are only temporary for the month of October.
+- Note these additions are only temporary for the month of October.
