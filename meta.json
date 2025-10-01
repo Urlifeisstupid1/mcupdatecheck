@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+  {
+  "id": "3.3.0",
+  "releasedAt": 1759340209436,
+  "promotions": {
+    "downloads": {
+      "generic": "https://sites.google.com/view/silly-smp/home"
+    }
+  }
+}
+
