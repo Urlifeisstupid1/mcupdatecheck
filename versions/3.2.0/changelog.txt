@@ -1,6 +1,6 @@
 ## Update includes
 - Silly item conveyer belts
-- Elytra crafting and enhancements (recipe below)
+- Elytra crafting and enhancements [recipe](https://cdn.modrinth.com/data/cached_images/3edd53b1419d2340909a89f225e0d389e02f0897.png)
 - More Vehicles
 - Boat Jumps
 - small chance for minerals to drop from stone
@@ -13,4 +13,3 @@
 - tab animation and customisation
 
 ### - Note an error with surveyor means that your atlas wont sync with other players on the server
-https://cdn.modrinth.com/data/cached_images/3edd53b1419d2340909a89f225e0d389e02f0897.png
