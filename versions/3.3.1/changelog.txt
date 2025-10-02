@@ -1,0 +1,6 @@
+## Update includes
+- Small Bug fixes
+- Better performance arround block entities
+- New menu background
+
+### - Note these additions are only temporary for the month of October.
