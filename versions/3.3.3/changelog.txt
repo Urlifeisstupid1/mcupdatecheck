@@ -1,0 +1,6 @@
+## Update includes
+- Replaced VHS Style shader to improve distant horizons support and due to the previous one reportedly causing headaches
+- Better Volume control. volume is logarithmic rather than linear.
+- openGL has changed from 3.2 to 4.6
+- crash assistant. when u crash out of the game fully a menu will apear to asist u in sending the crash logs to me for bug reports.
+- Moved event polling to a separate thread for perfromance increase of: 1.24x Windows, 1.11x Linux X11, 1.03x Linux wayland
