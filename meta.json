@@ -46,6 +46,15 @@
           "generic": "https://sites.google.com/view/silly-smp/home"
         }
       }
+    },
+    {
+      "id": "3.4.0",
+      "releasedAt": 1759862000000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://sites.google.com/view/silly-smp/home"
+        }
+      }
     }
   ]
 }
