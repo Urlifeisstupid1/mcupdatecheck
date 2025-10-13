@@ -1,0 +1,5 @@
+## Update includes
+- Change some shader settings in real time
+- added shader compatibilities to some modded blocks 
+- Updated complimentary shader version
+- More furnature and decor mods
