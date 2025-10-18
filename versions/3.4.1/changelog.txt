@@ -1,0 +1,6 @@
+## Update includes
+- Fixed multi Block Block outlines
+- Added some performance enhancements during high grapical strain
+- improved text rendering
+- improved resourcepack loading to be asynchronous
+- improved the main menu and version handling system
