@@ -7,7 +7,7 @@
       "releasedAt": 1759099860000,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -16,7 +16,7 @@
       "releasedAt": 1759340209436,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -25,7 +25,7 @@
       "releasedAt": 1759433166903,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -34,7 +34,7 @@
       "releasedAt": 1759691637428,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -43,7 +43,7 @@
       "releasedAt": 1759776488598,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -52,7 +52,7 @@
       "releasedAt": 1759862000000,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
         }
       }
     },
@@ -61,10 +61,18 @@
       "releasedAt": 1760809180747,
       "promotions": {
         "downloads": {
-          "generic": "https://sites.google.com/view/silly-smp/home"
+          "generic": "https://www.sillysmp.org"
+        }
+      }
+    },
+    {
+      "id": "3.5.0",
+      "releasedAt": 1761200000000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.sillysmp.org"
         }
       }
     }
   ]
 }
-
