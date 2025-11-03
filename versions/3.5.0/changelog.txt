@@ -1,1 +1,5 @@
-
+## Update includes
+- Preperation for the enderdraggon fight
+- Faster pinging and improved networking
+- Distant horrizons
+- Updated all server connection stuffs to use play.sillysmp.org
