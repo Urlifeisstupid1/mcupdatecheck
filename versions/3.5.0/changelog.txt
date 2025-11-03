@@ -3,3 +3,6 @@
 - Faster pinging and improved networking
 - Distant horrizons
 - Updated all server connection stuffs to use play.sillysmp.org
+- Removed void fog
+- Removed bedrock culling due to issues
+- Removed from the fog and other halloween related stuff
