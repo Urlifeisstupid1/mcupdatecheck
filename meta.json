@@ -73,6 +73,15 @@
           "generic": "https://www.sillysmp.org"
         }
       }
+    },
+    {
+      "id": "4.0.0",
+      "releasedAt": 1761921600000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.sillysmp.org"
+        }
+      }
     }
   ]
 }
