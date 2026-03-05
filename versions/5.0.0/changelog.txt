@@ -1,1 +1,18 @@
-
+## Update includes
+- Full Create suite with trains, electricity, decoration, ore excavation, and copycat blocks
+- Heavy performance optimization (Sodium, Lithium, FerriteCore, ModernFix, Memory Leak Fix, and more)
+- Massive world generation overhaul with new biomes and enhanced rivers
+- Tons of new structures: YUNG's, Luki's, Moog's, ruins, campsites, villages, and roads connecting them
+- New mobs and animals including aquatic creatures, frogs, hamsters, and a spider rework
+- Old-style combat, enchanting overhaul and tree chopping
+- Trinkets and accessory slots, dedicated elytra slot with trim support
+- Copper, tuff, and painting backports from 1.21
+- Reworked food system with no hunger bar
+- Presence Footsteps and ambient sound improvements
+- Talk Bubbles, JEI, and screenshot tools
+- Gender customisation
+- In-game map via Antique Atlas
+- Flyable aircraft via Immersive Aircraft
+- Instanced loot chests so multiplayer loot isn't shared
+- Sleep rework
+- Extended render distance beyond server limits via Bobby
