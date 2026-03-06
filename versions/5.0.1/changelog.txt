@@ -7,4 +7,4 @@
 - Status effect time bars
 - Water effects
 - Updated GUI
-- Removal of old season 4 assets
+- Removal of old season 4 assets/components
