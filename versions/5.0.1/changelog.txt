@@ -1,1 +1,10 @@
-
+## Update includes
+- Replaced zoom mod with more stable one
+- Smooth scrolling GUI's
+- Drop conformation
+- Client sided tweaks
+- Optimized world/server load to deffer the chunk distance loading when joining.
+- Status effect time bars
+- Water effects
+- Updated GUI
+- Removal of old season 4 assets
