@@ -1,1 +1,4 @@
-
+## Update includes
+- Fixed some GUI scale related issues
+- Removed a mod that was causing severe rendering issues
+- LOST THE WILL TO FUCKING LIVE WHILE I WAS AT IT... WHY DO MODS BREAK WHEN I DO FUCK ALL WITH THEM HJGSJUHYVJHRSE
