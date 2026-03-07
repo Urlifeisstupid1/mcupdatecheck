@@ -1,1 +1,16 @@
-
+## Update includes
+- Faster ladder climbing and improved placement
+- Better Safe Bed
+- Muskets
+- Better animals
+- Added create:estrogen mod (forgot to add it in 5.0.0)
+- Fixed nether portals
+- Enhanced horses
+- Tv's and security cameras
+- New tamable creature (It has a trans texture variant Ava :3)
+- Utilise items in nearby chests in crafting
+- Full inventory GUI (you will see how nice it is)
+- Small cursor enhancements
+- Audio enhancements to weather, block breaking and more!
+- Mob spawning tweaks so they no longer spawn in more built up areas + a way to check where that is
+- Silly little AFK camera animation
