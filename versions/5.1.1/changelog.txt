@@ -1,2 +1,17 @@
+## New Additions
+- Bedrock-like block placement speed
+- Chat heads
+- New Loading screen
+- New graphics options menu
+- More dynamic chunk distance
+- Item picup notifications
+- New tooltips engine
+- New player animations
 
-test
+## Fixed Bugs
+- Fixed flashing chunks on load
+- Fixed unresponsive screenshots button on main menu
+- Fixed a bug where the join server button would incorectly flag your version as outdated even when you are the latest version
+- Fixed an issue where some items would not scale correctly on lower resolutions or high GUI scales.
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
