@@ -1,7 +1,7 @@
 ^^^
 # News
 ^^^
-### Latest update includes
+## {"placeholder":"mpuc:latest-modpack-version"} Patch Notes
 - Faster ladder climbing and improved placement
 - Better Safe Bed
 - Muskets
