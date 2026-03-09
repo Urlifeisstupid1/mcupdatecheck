@@ -1,4 +1,5 @@
-# Latest update includes
+# News
+### Latest update includes
 - Faster ladder climbing and improved placement
 - Better Safe Bed
 - Muskets
