@@ -1,1 +1,8 @@
+## Other Additions
+-- Adjusted Fade from loading screen to tittle screen Adjusted Fade from loading screen to tittle screen
 
+## Fixed Bugs
+- Fixed "Internal Exception: java.lang.StringIndexOutOfBoundsException:
+offset 5582, count 104, length 5685" when joining server
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
