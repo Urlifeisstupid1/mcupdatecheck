@@ -1,7 +1,0 @@
-## New Additions
-- 
-
-## Fixed Bugs
-- 
-
-### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
