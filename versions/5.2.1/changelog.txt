@@ -1,5 +1,5 @@
 ## Other Additions
--- Adjusted Fade from loading screen to tittle screen Adjusted Fade from loading screen to tittle screen
+- Adjusted Fade from loading screen to tittle screen Adjusted Fade from loading screen to tittle screen
 
 ## Fixed Bugs
 - Fixed "Internal Exception: java.lang.StringIndexOutOfBoundsException:
