@@ -18,6 +18,7 @@
     - Toggle to turn off animated background
     - Toggle extra loading screen info
 - New loading menu
+
 ## Fixed Bugs
 - Fixed the loading cube animation wouldn't always show.
 
