@@ -1,24 +1,24 @@
 ## New Mods
 - Discover plants, animals and monsters with a spyglass. Collect them all and take notes in your personal Field Guide!
 - More mobs and variants
-- Nether overhall improving hight based genoration, adding nether ore spawning, new biomes and blocks, and new structures to explore
+- Nether overhaul improving height based generation, adding nether ore spawning, new biomes and blocks, and new structures to explore
 - Added the ability to attach chains to fences and use them as ziplines like in [Satisfactory](https://www.satisfactorygame.com)
 - Sprinting in all directions
 - Hotbar enhancements
-- Recipie adjustments
+- Recipe adjustments
 - Right click harvest
 - New particle effects
 - lanterns now swing in the wind
 - Added MCEF (Minecraft Chromium Embedded Framework)
 
 ## Other Additions
-- New animated background on main menu (toggleable)
+- New animated background on main menu
 - Added "Silly SMP config" in settings:
     - Logo variations
     - Toggle to turn off animated background
     - Toggle extra loading screen info
 - New loading menu
 ## Fixed Bugs
-- Fixed the loading cube animation wouldnt always show.
+- Fixed the loading cube animation wouldn't always show.
 
 ### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
