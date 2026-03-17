@@ -1,1 +1,27 @@
+## New Mods
+- Fixed volume sliders to work on the correct scale matching our perception
+- Entity Rendering optimisations in entity heavy scenes
+- Sound Optimisations
+- Individual volume controll for all sounds in game
+- Freeze visual time so that you can build in daytime (toggle with "y") *client side only*
+- New Sound Physics Engine, more performant with better echo and occlusion
+- Escalators
+- Pick up planes with create wrench (like you can with trains and other create entities)
+- More train/tram related blocks
+- New backpacks
+- New Vehicles
+- Entity Rendering optimisations in entity heavy scenes
+- Overlapping recipies fix
+- More Ambient Particles
+- Distraction free Inventory (hidden JEI until you begin searching)
+- Trails that follow projectiles and entities, Directional screen-shaking effects
 
+## Other Additions
+- Acess to the ingame chromium framework added in 5.1.1 (open it with /br or /browser)
+- Report Button in game to report bugs and issues
+- Updated main menu animated background
+
+## Fixed Bugs
+- Removed copper wedges broken recipie (i'm joking... there were no bugs reported so please report issues) 
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
