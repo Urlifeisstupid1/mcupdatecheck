@@ -17,7 +17,7 @@
 - Trails that follow projectiles and entities, Directional screen-shaking effects
 
 ## Other Additions
-- Access to the in-game chromium framework added in 5.1.1 (open it with /br or /browser)
+- Access to the in-game chromium framework added in 5.2.0 (open it with /br or /browser)
 - Report Button in-game to report bugs and issues
 - Updated main menu animated background
 
