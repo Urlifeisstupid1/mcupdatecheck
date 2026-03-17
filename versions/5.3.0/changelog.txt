@@ -20,6 +20,7 @@
 - Access to the in-game chromium framework added in 5.2.0 (open it with /br or /browser)
 - Report Button in-game to report bugs and issues
 - Updated main menu animated background
+- Added dynamic view distance options in Silly SMP Config menu
 
 ## Fixed Bugs
 - Removed copper wedges broken recipe (i'm joking... there were no bugs reported so please report issues)
