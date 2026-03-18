@@ -1,1 +1,14 @@
+## New Mods
+- Game now runs on opengl version 4.6 meaning a loss of compatibility on older hardware but a performance uplift on hardware that supports it (pre 2012 GPU's most likey wont work)
+- Render layer optimizations 
+- Optimised animation calculations
+- Client-sided collision chcecks removed (they cause lag and do nothing important)
+- Optimised leaves rendering
+- Sound garbage collection so sounds arent held in ram when they dont need to be (reduces ram useage a litle)
 
+## Other Additions
+
+## Fixed Bugs
+- Washed out colours on animated background. [comparison image](https://upload.coburnstaniland.com/u/before%E2%81%84after.png)
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
