@@ -1,5 +1,5 @@
 ## New Mods
-- Game now runs on opengl version 4.6 meaning a loss of compatibility on older hardware but a performance uplift on hardware that supports it (pre 2012 GPU's most likey wont work)
+- Game now runs on opengl version 4.6 meaning a loss of compatibility on older hardware but a performance uplift on hardware that supports it (pre 2012 GPU's most likely wont work)
 - Render layer optimizations 
 - Optimised animation calculations
 - Client-sided collision chcecks removed (they cause lag and do nothing important)
