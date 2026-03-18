@@ -154,6 +154,15 @@
           "generic": "https://www.sillysmp.org"
         }
       }
+    },
+    {
+      "id": "5.3.1",
+      "releasedAt": 1773862158000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.sillysmp.org"
+        }
+      }
     }
   ]
 }
