@@ -1,1 +1,20 @@
+## New Mods
+- Signs text rendering optimisations
+- Optimised lighting engine
+- Quicker resourcepack loading times
+- Bottom of the bedrock in the overworld and top and bottom in the nether is no longer rendered when you cannot see it
+- Extra sounds in the ui
+- Armor visibility
+- Dynamic lights without shaders
+- All block entities now use the more optimised flywheel renderer from create. [Comparison image](https://upload.coburnstaniland.com/view/no%20shader.jpg)
+- Some shaders now have been patched to work with flywheel and therefore run better. [Comparison image](https://upload.coburnstaniland.com/view/shaders.jpg)
 
+## Other Additions
+- Tool tip designs for some items
+- Reduced download size and total file size at the cost of quality of some assets (before 1126.4 MB | after 761.1MB)
+
+## Fixed Bugs
+- Tool tips no longer go off the screen
+- Finally removed the floating blue star on the main menu
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
