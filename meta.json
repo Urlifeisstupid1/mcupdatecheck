@@ -172,6 +172,15 @@
           "generic": "https://www.sillysmp.org"
         }
       }
+    },
+    {
+      "id": "5.3.3",
+      "releasedAt": 1774273909000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://www.sillysmp.org"
+        }
+      }
     }
   ]
 }
