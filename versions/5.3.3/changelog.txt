@@ -1,1 +1,16 @@
+## New Mods
+- Silly Particles and animations of items in the inventory
+- Visual health shown on players and entities
 
+## Other Additions
+- A new menu test (Available in the Silly SMP config settings)
+- By default the "wifi symbol" is no longer visible on containers
+- A new recepie for gilded Blackstone (1x Blackstone and 4x gold nuggets *shapeless*)
+- Reduced download size from 789MB to 627MB
+
+## Fixed Bugs
+- Random crashes caused by Swinging Lanterns
+- Crashes related to create mod contraptions crashing when assembled due to lighting optimisation mods
+- Crashes and instability caused by a mod that allows you to see your crafting grid, offhand and armour slots in all inventory's
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
