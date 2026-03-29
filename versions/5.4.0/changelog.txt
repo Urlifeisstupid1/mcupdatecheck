@@ -1,1 +1,33 @@
+## New Mods
+- Your options are now persistant between updates. (***REQUIRES CONFIGURATION***)
+  Depending on your operating system, options.txt is stored in a different folder.
+  Move your existing options.txt from your 5.3.3 instance to the corisponding location for your OS:
+  %APPDATA%\.minecraft *on Windows*
+  $HOME/Library/Application Support/minecraft *on macOS*
+  $HOME/.minecraft *on Linux*
+- When mining blocks like Stone in the Overworld or Netherrack in the Nether, there is a very small chance that ores will drop
+- A skills system - Open its UI with F4 key by default
+- changed how sleeping works so now its animated and the ui is less cluttered
+- New mail system - send items and letters to players
+- New Underground structures
+- Silly game console + mini games to play
+- New death screen
+- Auto connector to the server during restarts
+- Crafting recipe for the Thigh Highs styles
+- More mobs and mob variants
+- Entity culling enhancements
+- Smooth transitions between perspectives when pressing F5
+- New Texture pack features that allow for customisation of sounds textures and models of entities.
 
+## Other Additions
+- Leaves look prettier
+- Eyes
+- enhanced the crash assistant
+
+## Fixed Bugs
+- Fixed a bug where Weather wouldn't stop after sleeping
+- Fixed A bug where holding the sprint key while already sprinting would cause you to move faster
+- Fixed A bug where holding the sprint key while crouching would cause you to move faster
+- Made the nether ores vein miner work
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
