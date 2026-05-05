@@ -1,1 +1,9 @@
+## New Mods
+- 
+## Other Additions
+- Restored The Omni mod to it's 1.0 to restore bugged functionality 
 
+## Fixed Bugs
+- 
+
+### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
