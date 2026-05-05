@@ -1,9 +1,20 @@
 ## New Mods
-- 
+- Improved network performance and reduced bandwith usage with packet header indexing, aggregation + Zstd compression, delayed chunk caching, and persistent client-side chunk deduplication.
+- Dynamic engine sounds for various create train types.
+- Catenary wires, pantographs and more for electric modern trains in Create.
+- Optimized texture animations. 
+- Reduce fall damage by crouching just before landing
+- Pixel-perfect, zero-lag hitboxes that instantly perfectly match the 3D visual models of every vanilla and modded entity in the game.
+- Adds new engines to immersive aircraft, as well as other new upgrades
+
 ## Other Additions
-- Restored The Omni mod to it's 1.0 to restore bugged functionality 
+- Restored The Omni mod to it's 1.0 to reveret these 2 bugs:
+  - Fixed A bug where holding the sprint key while already sprinting would cause you to move faster
+  - Fixed A bug where holding the sprint key while crouching would cause you to move faster
+- Bushy Leaves Are no longer forced on and instead can be turned off in the resource packs screen.
 
 ## Fixed Bugs
-- 
+- Removed the "Seamless sleep mod due to its incompatibility with other sleep related mods.
+
 
 ### Report bugs [Here](https://docs.google.com/forms/d/e/1FAIpQLSe83kpz_FFQO075IWcp6v6eZWYaLXY9HxdJwFoJTKDAnhKKqQ/viewform)
